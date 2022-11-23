@@ -6,7 +6,7 @@ import Main2 from '../Main2'
 export class SectionSix extends Component {
     render() {
         return (
-            <div>
+
                 <section className="sixth-heghlight-wrapper">
                     <div className="container-fluid">
                         <div className="row">
@@ -44,7 +44,7 @@ export class SectionSix extends Component {
                         </div>
                     </div>
                 </section>
-            </div>
+
         )
     }
 }

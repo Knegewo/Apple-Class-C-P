@@ -8,7 +8,6 @@ import LearnMore from '../LearnMore'
 export class SectionFive extends Component {
     render() {
         return (
-            <div>
                 <section className="fifth-heghlight-wrapper">
                     <div className="container-fluid">
                         <div className="row">
@@ -43,7 +42,6 @@ export class SectionFive extends Component {
                         </div>
                     </div>
                 </section>
-            </div>
         )
     }
 }

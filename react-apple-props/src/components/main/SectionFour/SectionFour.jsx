@@ -6,7 +6,7 @@ export class SectionFour extends Component {
     render() {
         
         return (
-            <div>
+         
                 <section className="fourth-heghlight-wrapper">
                     <div className="container-fluid">
                         <div className="row">
@@ -41,7 +41,7 @@ export class SectionFour extends Component {
                         </div>
                     </div>
                 </section>
-            </div>
+        
         )
     }
 }
